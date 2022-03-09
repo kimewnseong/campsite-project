@@ -2,7 +2,34 @@
 
 - 캠린이부터 캠핑 고인물까지 캠핑족을 위해 캠핑장 이용 후기와 캠핑장 정보를 함께 제공하는 사이트입니다.
 
-## 프로젝트 구성 안내
+## 화면
+
+- 메인 & 로그인
+<img src="![Main](https://user-images.githubusercontent.com/87754201/157378993-26b07d16-69fe-4177-9e14-b0a74519c649.gif)">
+
+
+- Navbar 검색
+<img src="![Nav_Search](https://user-images.githubusercontent.com/87754201/157379035-b3b3c820-9750-430f-adf1-495f87909f9f.gif)">
+
+
+- 다크모드
+<img src="![Darkmode](https://user-images.githubusercontent.com/87754201/157379052-82485f05-b32b-4941-ae6e-a2e61de34328.gif)">
+
+
+- 리뷰CRUD
+<img src="![CRUD](https://user-images.githubusercontent.com/87754201/157379088-8ef8ed89-1443-475b-b0f0-7af3cee4d6b7.gif)">
+
+
+- 캠핑장 정보, 북마크
+<img src="![Bookmark](https://user-images.githubusercontent.com/87754201/157379102-c8833fc2-c5d8-4d68-9c58-3ba8a2867fd9.gif)">
+
+
+- 캠핑장목록&필터링
+<img src="![Filter](https://user-images.githubusercontent.com/87754201/157379143-46eb3a73-2905-4e04-890d-d5c62af9c316.gif)">
+
+
+- 유저페이지
+<img src="![User](https://user-images.githubusercontent.com/87754201/157379163-ea36357a-6d73-463c-bc17-dec36d9eb474.gif)">
 
 ## 1. 프로젝트 소개
 
@@ -58,10 +85,6 @@
 
 ## 4. 프로젝트 구성도
 
-### 아키텍처
-
-![Architecture](/uploads/ac5a8c006041b8215655f104480d3df2/Architecture.png)
-
 ### 와이어프레임
 
 - [피그마(와이어 프레임)](https://www.figma.com/file/4IuP5rkdTNYy0jsJJ8txH1/Wireframing-in-Figma?node-id=0%3A1)
@@ -90,11 +113,3 @@
 - 개발 단계: 와이어프레임을 기반으로 구현, UI 디자인 완성
 - 수정 단계: 피드백 반영해서 프론트 디자인 수정
 
-## 6. 버전
-
-- 프로젝트의 버전 기입
-
-## 7. 문서
-
-- [노션](https://www.notion.so/elice/4-866f216023ba43dcb6b4a5e5876e8401)
-- [Wiki](https://kdt-gitlab.elice.io/sw_track/class_01/project_2/team4/project-template/-/wikis/%EA%B8%B0%ED%9A%8D%EC%84%9C)

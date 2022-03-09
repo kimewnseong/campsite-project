@@ -5,29 +5,41 @@
 ## 화면
 
 - 메인 & 로그인
+
+
 ![Main](https://user-images.githubusercontent.com/87754201/157378993-26b07d16-69fe-4177-9e14-b0a74519c649.gif)
 
-
 - Navbar 검색
+
+
 ![Nav_Search](https://user-images.githubusercontent.com/87754201/157379035-b3b3c820-9750-430f-adf1-495f87909f9f.gif)
 
-
 - 다크모드
+
+
 ![Darkmode](https://user-images.githubusercontent.com/87754201/157379052-82485f05-b32b-4941-ae6e-a2e61de34328.gif)
 
 - 리뷰CRUD
+
+
 ![CRUD](https://user-images.githubusercontent.com/87754201/157379088-8ef8ed89-1443-475b-b0f0-7af3cee4d6b7.gif)
 
 
 - 캠핑장 정보, 북마크
+
+
 ![Bookmark](https://user-images.githubusercontent.com/87754201/157379102-c8833fc2-c5d8-4d68-9c58-3ba8a2867fd9.gif)
 
 
 - 캠핑장목록&필터링
+
+
 ![Filter](https://user-images.githubusercontent.com/87754201/157379143-46eb3a73-2905-4e04-890d-d5c62af9c316.gif)
 
 
 - 유저페이지
+
+
 ![User](https://user-images.githubusercontent.com/87754201/157379163-ea36357a-6d73-463c-bc17-dec36d9eb474.gif)
 
 ## 1. 프로젝트 소개
